@@ -10,8 +10,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "esprima": "^4.0.1",
-    "estraverse": "^5.2.0",
     "estraverse-fb": "^1.3.2"
+  },
+  "devDependencies": {
+    "escodegen": "^2.0.0",
+    "esprima": "^4.0.1",
+    "estraverse": "^5.2.0"
   }
 }
